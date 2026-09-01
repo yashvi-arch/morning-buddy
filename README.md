@@ -45,7 +45,6 @@ The application combines real-time information from external APIs with Google Ge
 
 - OpenWeather API
 - NewsAPI
-- SerpAPI
 
 ### Libraries
 
